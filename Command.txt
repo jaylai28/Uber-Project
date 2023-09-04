@@ -1,0 +1,13 @@
+#!/bin/bash
+yum update -y
+yum install -y python3 wget
+curl -O https://bootstrap.pypa.io/get-pip.py
+python3 get-pip.py
+
+pip install mage-AI
+pip install pandas
+pip install boto3
+
+# Depends on which database you want to connect to
+pip install redshift_connector
+pip install snowflake-connector-python
