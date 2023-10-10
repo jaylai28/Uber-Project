@@ -36,5 +36,4 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 # Dashboard Overview
 
-Link to the dashboard https://lookerstudio.google.com/s/qrI3UiXLoII
 ![Screenshot 2023-09-04 at 18 21 55](https://github.com/jaylai28/Uber-Project/assets/69461406/617967ba-bbdd-47da-9e9d-f4a695ba146a)
